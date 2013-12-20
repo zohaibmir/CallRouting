@@ -1,4 +1,4 @@
 CallRouting
 ===========
 
-A Small Application for Selecting the Lowest Call operator
+A small App For Selecting the Low Cost Operator for the Call.
